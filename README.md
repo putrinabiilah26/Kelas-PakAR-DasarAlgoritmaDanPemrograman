@@ -1,5 +1,9 @@
 # Kelas-PakAR-DasarAlgoritmaDanPemrograman
-# Putri-Nabiilah-DasarAlgoritmaDanPemrograman
+### UJIAN AKHIR SEMESTER
+    Nama        : Putri Nabiilah
+    NIM         : 24110310063
+    Kelas       : 2A Bisnis Digital
+    Mata Kuliah : Dasar Algoritma dan Pemrograman
 # Aplikasi Toko Dimsum (DIMSUM D'LICIOUS)
 # 1. Pengembangan Aplikasi
 ### Implementasi Lengkap Sistem Inventori
